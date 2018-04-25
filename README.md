@@ -36,4 +36,4 @@ If you want to attempt to change any of the styles of the page, take a look at t
 
 Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up". Just refresh the browser and it will all go back to how it was!
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/dev-tools-super-power'>Dev Tools Super Power</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Dev Tools Super Power</p>

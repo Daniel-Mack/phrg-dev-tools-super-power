@@ -4,3 +4,5 @@ tags:
   - kids
 languages:
   - HTML
+
+parent_template: git@github.com:learn-co-curriculum/dev-tools-super-power.git
