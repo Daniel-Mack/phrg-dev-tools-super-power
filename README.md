@@ -36,4 +36,7 @@ If you want to attempt to change any of the styles of the page, take a look at t
 
 Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up". Just refresh the browser and it will all go back to how it was!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-dev-tools-super-power/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-dev-tools-super-power/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Dev Tools Super Power</p>
